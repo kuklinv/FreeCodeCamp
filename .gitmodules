@@ -1,3 +1,6 @@
 [submodule "Apis"]
 	path = Apis
 	url = https://github.com/freeCodeCamp/boilerplate-npm.git
+[submodule "boilerplate-express"]
+	path = boilerplate-express
+	url = https://github.com/freeCodeCamp/boilerplate-express.git
